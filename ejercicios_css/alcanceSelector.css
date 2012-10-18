@@ -1,0 +1,39 @@
+/* Comentario tipico en CSS
+  .recuadro{
+        width: 200px;
+   }
+   .recuadro .mensaje{
+             border: 1px solid red;
+   }
+   .recuadro .mensaje .titulo{
+             color: red;
+   }
+   .recuadro .usuario{
+            border: 2px solid black;
+   }
+   .recuadro .usuario .titulo{
+            color: black;
+  }
+*/
+/* para Sass en el alcance de un Selector 
+se tiene en cuenta la indentación */
+/* line 23, ../ejercicios_sass/alcanceSelector.scss */
+.recuadro {
+  width: 200px;
+}
+/* line 25, ../ejercicios_sass/alcanceSelector.scss */
+.recuadro .mensaje {
+  border: 1px solid red;
+}
+/* line 27, ../ejercicios_sass/alcanceSelector.scss */
+.recuadro .mensaje .titulo {
+  color: red;
+}
+/* line 29, ../ejercicios_sass/alcanceSelector.scss */
+.recuadro .usuario {
+  border: 2px solid black;
+}
+/* line 31, ../ejercicios_sass/alcanceSelector.scss */
+.recuadro .usuario .titulo {
+  color: black;
+}

@@ -1,0 +1,11 @@
+/* line 17, ../ejercicios_sass/operaciones.scss */
+body {
+  width: 482.5px;
+  background: white;
+  font-color: #222222;
+  margin: 2.5px 7px 8px 40px;
+}
+/* line 25, ../ejercicios_sass/operaciones.scss */
+body h1 {
+  font-color: #567654;
+}

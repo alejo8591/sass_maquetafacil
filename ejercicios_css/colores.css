@@ -1,0 +1,38 @@
+/* line 19, ../ejercicios_sass/colores.scss */
+#ajaxMan {
+  color: #b5cee6;
+}
+
+/* line 24, ../ejercicios_sass/colores.scss */
+#ajaxManBox {
+  font-color: #b8b8b8;
+}
+
+/* line 29, ../ejercicios_sass/colores.scss */
+#pageMan {
+  color: #2466a8;
+}
+
+/* line 34, ../ejercicios_sass/colores.scss */
+#ajaxBoy {
+  color: #454545;
+}
+/* line 36, ../ejercicios_sass/colores.scss */
+#ajaxBoy > .ajaxChild {
+  color: #454545;
+}
+
+/* line 41, ../ejercicios_sass/colores.scss */
+#ajaxGirl {
+  color: #454545;
+}
+
+/* line 45, ../ejercicios_sass/colores.scss */
+#ajaxPet {
+  color: #454545;
+}
+
+/* line 49, ../ejercicios_sass/colores.scss */
+#PageGirl {
+  color: #5d2a2a;
+}

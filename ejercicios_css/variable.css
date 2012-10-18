@@ -1,0 +1,11 @@
+/* line 19, ../ejercicios_sass/variable.scss */
+body {
+  background: white;
+  font-color: #222222;
+  margin: 5px 5px 10px 20px;
+  width: 965px;
+}
+/* line 25, ../ejercicios_sass/variable.scss */
+body h1 {
+  font-color: #567654;
+}

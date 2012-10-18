@@ -1,0 +1,19 @@
+/* line 1, ../ejercicios_sass/primero.scss */
+body, html {
+  height: 100%;
+}
+
+/* line 4, ../ejercicios_sass/primero.scss */
+h1 {
+  border-bottom: 2px solid #474747;
+  color: #e3c3c3;
+  margin: 0 0 5px;
+}
+
+/* line 9, ../ejercicios_sass/primero.scss */
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 100%;
+  width: auto;
+}
